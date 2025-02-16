@@ -9,8 +9,8 @@
 
 
 🔧 Tech Stack
-React (for UI components)
-Tailwind CSS (for styling)
-React Router (for navigation)
+React (for UI components), 
+Tailwind CSS (for styling), 
+React Router (for navigation), 
 
 ![Homepage Screenshot](src/components/assets/ss/screenshot.png)
