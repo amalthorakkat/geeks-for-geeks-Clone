@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/geeks-for-geeks-Clone/static/css/main.1cc9bee4.css",
+    "main.js": "/geeks-for-geeks-Clone/static/js/main.33581b52.js",
+    "static/media/dark-mode.png": "/geeks-for-geeks-Clone/static/media/dark-mode.b06c526b4ba9e65defd5.png",
+    "static/media/language.png": "/geeks-for-geeks-Clone/static/media/language.32bc833f897cfb5b014c.png",
+    "static/media/twitter.png": "/geeks-for-geeks-Clone/static/media/twitter.25d2607b88644375bd51.png",
+    "index.html": "/geeks-for-geeks-Clone/index.html",
+    "main.1cc9bee4.css.map": "/geeks-for-geeks-Clone/static/css/main.1cc9bee4.css.map",
+    "main.33581b52.js.map": "/geeks-for-geeks-Clone/static/js/main.33581b52.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1cc9bee4.css",
+    "static/js/main.33581b52.js"
+  ]
+}
